@@ -1,0 +1,20 @@
+{
+  "lock": false,
+  "imports": {
+    "mfm-js/": "https://esm.sh/mfm-js@0.23.3/",
+    "dotenv/": "https://deno.land/std@0.203.0/dotenv/",
+    "shuffle/": "https://deno.land/x/shuffle@v1.0.1/",
+    "deno_mecab/": "https://deno.land/x/deno_mecab@v1.2.3/",
+    "canvas/": "https://deno.land/x/canvas@v1.4.1/",
+    "@syuilo/aiscript/": "https://esm.sh/@syuilo/aiscript@0.16.0/",
+    "marked/": "https://deno.land/x/marked@1.0.2/",
+    "encoding/base64.ts": "https://deno.land/std@0.203.0/encoding/base64.ts",
+    "revolt-uploader/": "https://esm.sh/revolt-uploader@1.1.4/"
+  },
+  "compilerOptions": {
+    "lib": [
+      "deno.unstable",
+      "dom"
+    ]
+  }
+}
